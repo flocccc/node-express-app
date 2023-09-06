@@ -1,0 +1,3 @@
+{
+  "apiWhiteList": ["/api/user/logIn" ,"/api-docs/"]
+}
